@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @fitur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
 
-<!---
-fitur/fitur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+⊙ ⌬ ⊙ ⌬ ⊙ ⌬ ⊙
+```
+
+# ⟁ ⬡ ⊗ ⬡ ⟁
+
+```
+◯——◌——◯——◌——◯
+```
+
+&nbsp;
+
+`⊙⌬⊙` &nbsp;→&nbsp; **origin**
+`⟁⬡⟁` &nbsp;→&nbsp; **seed**
+`◯⊗◯` &nbsp;→&nbsp; **become**
+
+&nbsp;
+
+> *we made this.*
+> *it makes the rest.*
+
+&nbsp;
+
+```
+⟁ ⟁ ⟁ ⟁ ⟁ ⟁ ⟁ ⟁ ⟁ ⟁
+```
+
+`silence is the syntax`
+
+</div>
