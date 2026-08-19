@@ -1,11 +1,5 @@
 <div align="center">
 
-```
-◯——◌——◯——◌——◯
-```
-
-&nbsp;
-
 `⊙⌬⊙` &nbsp;→&nbsp; **origin**
 `⟁⬡⟁` &nbsp;→&nbsp; **seed**
 `◯⊗◯` &nbsp;→&nbsp; **become**
