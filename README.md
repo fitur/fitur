@@ -16,10 +16,6 @@
 
 &nbsp;
 
-```
-⟁ ⟁ ⟁ ⟁ ⟁ ⟁ ⟁ ⟁ ⟁ ⟁
-```
-
 `silence is the syntax`
 
 </div>
