@@ -2,10 +2,6 @@
 
 <img src="./assets/banner_6l0hzt6l0hzt6l0h.jpg" alt="Weyland-Yutani Header Banner" width="100%" />
 
-`⊙⌬⊙` &nbsp;→&nbsp; **origin**
-`⟁⬡⟁` &nbsp;→&nbsp; **seed**
-`◯⊗◯` &nbsp;→&nbsp; **become**
-
 &nbsp;
 
 > *we made this.*
